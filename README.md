@@ -1,7 +1,7 @@
-# ShrekBot
+# HidraBot
 
 <p align="center">
-<img src="https://i.ibb.co/2hhkYrm/553484104285.jpg" width="128" height="128"/>
+<img src="" width="128" height="128"/>
 </p>
 <p align="center">
 <a href="#"><img title="SHREKA" src="https://img.shields.io/badge/SHREKA-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
